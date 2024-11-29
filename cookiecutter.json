@@ -1,0 +1,9 @@
+{
+    "project_name": "Cookiecutter Website Simple",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_description": "A poetry polylith project",
+    "author_name": "Anonymous",
+    "author_contact": "anonymous@example.com",
+    "python_version": "^3.12",
+    "poly_workspace": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}"
+}
