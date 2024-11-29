@@ -14,6 +14,8 @@ git init
 poetry install
 # install pre-commit hook
 poetry run pre-commit install
+# install pre-commit dependencies
+poetry run pre-commit -a
 ```
 
 ## Polylith Docs
