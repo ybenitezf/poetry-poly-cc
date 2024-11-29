@@ -10,6 +10,7 @@ A python poetry polylith project
 Run
 
 ```shell
+git init
 poetry install
 # install pre-commit hook
 poetry run pre-commit install
