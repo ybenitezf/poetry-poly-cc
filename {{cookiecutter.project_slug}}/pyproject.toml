@@ -15,6 +15,9 @@ python = "{{ cookiecutter.python_version }}"
 
 [tool.poetry.group.dev.dependencies]
 
+[tool.poetry.group.test.dependencies]
+pytest = "^8.3.3"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
