@@ -2,6 +2,14 @@
 
 A poetry polylith cookiecutter template
 
+Use as:
+
+```shell
+cookiecutter https://github.com/ybenitezf/poetry-poly-cc.git
+```
+
+Answer the questions and ready to go. Read the README.md included for prerequisites.
+
 ## What is included
 
 1. Poetry is configured to create the virtualenv in the project folder (see `poetry.toml`)
