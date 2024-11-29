@@ -2,13 +2,15 @@
 
 A poetry polylith cookiecutter template
 
-Use as:
+Usage:
+
+[install cookiecutter](https://cookiecutter.readthedocs.io/en/stable/README.html#installation) and run:
 
 ```shell
 cookiecutter https://github.com/ybenitezf/poetry-poly-cc.git
 ```
 
-Answer the questions and ready to go. Read the README.md included for prerequisites.
+Answer the questions and ready to go. Read the README.md in the generated project for prerequisites.
 
 ## What is included
 
