@@ -11,6 +11,8 @@ Run
 
 ```shell
 poetry install
+# install pre-commit hook
+poetry run pre-commit install
 ```
 
 ## Polylith Docs
