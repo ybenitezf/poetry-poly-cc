@@ -1,8 +1,9 @@
 {
     "recommendations": [
-        "ms-python.python",
-        "EditorConfig.EditorConfig",
-        "aaron-bond.better-comments",
-        "tamasfe.even-better-toml"
+      "ms-python.python",
+      "EditorConfig.EditorConfig",
+      "aaron-bond.better-comments",
+      "tamasfe.even-better-toml"
     ]
-}
+  }
+  
